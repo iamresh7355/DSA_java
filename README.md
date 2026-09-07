@@ -10,13 +10,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/iamresh7355/DSA_java/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamresh7355/DSA_java/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/iamresh7355/DSA_java/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamresh7355/DSA_java/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/iamresh7355/DSA_java/tree/master/0050-powx-n) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/iamresh7355/DSA_java/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
