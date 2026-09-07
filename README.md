@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/iamresh7355/DSA_java/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/iamresh7355/DSA_java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/iamresh7355/DSA_java/tree/master/0162-find-peak-element) |
+| [0179-largest-number](https://github.com/iamresh7355/DSA_java/tree/master/0179-largest-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/iamresh7355/DSA_java/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/iamresh7355/DSA_java/tree/master/0075-sort-colors) |
+| [0179-largest-number](https://github.com/iamresh7355/DSA_java/tree/master/0179-largest-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -43,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/iamresh7355/DSA_java/tree/master/0162-find-peak-element) |
+## String
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/iamresh7355/DSA_java/tree/master/0179-largest-number) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/iamresh7355/DSA_java/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
