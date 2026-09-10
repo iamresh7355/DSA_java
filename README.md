@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/iamresh7355/DSA_java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/iamresh7355/DSA_java/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/iamresh7355/DSA_java/tree/master/0179-largest-number) |
+| [0287-find-the-duplicate-number](https://github.com/iamresh7355/DSA_java/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamresh7355/DSA_java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/iamresh7355/DSA_java/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/iamresh7355/DSA_java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0287-find-the-duplicate-number](https://github.com/iamresh7355/DSA_java/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/iamresh7355/DSA_java/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/iamresh7355/DSA_java/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
 | ------- |
@@ -59,8 +62,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/iamresh7355/DSA_java/tree/master/0067-add-binary) |
+| [0287-find-the-duplicate-number](https://github.com/iamresh7355/DSA_java/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/iamresh7355/DSA_java/tree/master/0067-add-binary) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/iamresh7355/DSA_java/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/iamresh7355/DSA_java/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
