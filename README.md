@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/iamresh7355/DSA_java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/iamresh7355/DSA_java/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/iamresh7355/DSA_java/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/iamresh7355/DSA_java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/iamresh7355/DSA_java/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/iamresh7355/DSA_java/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/iamresh7355/DSA_java/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/iamresh7355/DSA_java/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/iamresh7355/DSA_java/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quicksort
 |  |
 | ------- |
@@ -75,4 +77,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/iamresh7355/DSA_java/tree/master/0287-find-the-duplicate-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/iamresh7355/DSA_java/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/iamresh7355/DSA_java/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/iamresh7355/DSA_java/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
