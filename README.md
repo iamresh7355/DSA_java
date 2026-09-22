@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamresh7355/DSA_java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/iamresh7355/DSA_java/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/iamresh7355/DSA_java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0136-single-number](https://github.com/iamresh7355/DSA_java/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/iamresh7355/DSA_java/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/iamresh7355/DSA_java/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/iamresh7355/DSA_java/tree/master/0215-kth-largest-element-in-an-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/iamresh7355/DSA_java/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/iamresh7355/DSA_java/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/iamresh7355/DSA_java/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
