@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/iamresh7355/DSA_java/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/iamresh7355/DSA_java/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/iamresh7355/DSA_java/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/iamresh7355/DSA_java/tree/master/0179-largest-number) |
@@ -101,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/iamresh7355/DSA_java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/iamresh7355/DSA_java/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/iamresh7355/DSA_java/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
