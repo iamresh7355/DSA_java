@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/iamresh7355/DSA_java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/iamresh7355/DSA_java/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/iamresh7355/DSA_java/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/iamresh7355/DSA_java/tree/master/0344-reverse-string) |
 ## Recursion
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/iamresh7355/DSA_java/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/iamresh7355/DSA_java/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/iamresh7355/DSA_java/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/iamresh7355/DSA_java/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
 | ------- |
