@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/iamresh7355/DSA_java/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/iamresh7355/DSA_java/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamresh7355/DSA_java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/iamresh7355/DSA_java/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/iamresh7355/DSA_java/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/iamresh7355/DSA_java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/iamresh7355/DSA_java/tree/master/0136-single-number) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/iamresh7355/DSA_java/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/iamresh7355/DSA_java/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/iamresh7355/DSA_java/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/iamresh7355/DSA_java/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/iamresh7355/DSA_java/tree/master/0215-kth-largest-element-in-an-array) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/iamresh7355/DSA_java/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/iamresh7355/DSA_java/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/iamresh7355/DSA_java/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/iamresh7355/DSA_java/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/iamresh7355/DSA_java/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/iamresh7355/DSA_java/tree/master/0179-largest-number) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/iamresh7355/DSA_java/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/iamresh7355/DSA_java/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/iamresh7355/DSA_java/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
